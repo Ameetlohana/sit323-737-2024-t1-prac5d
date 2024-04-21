@@ -1,0 +1,27 @@
+{"level":"info","message":"Server is listening on port 3040","service":"calculate-service"}
+{"level":"info","message":"Operation add with parameters 5 and 3","service":"calculate-service"}
+{"level":"error","message":"Invalid number format","service":"calculate-service"}
+{"level":"info","message":"Operation sub with parameters 10 and 5","service":"calculate-service"}
+{"level":"error","message":"Invalid number format","service":"calculate-service"}
+{"level":"info","message":"Operation sub with parameters 5 and 3","service":"calculate-service"}
+{"level":"error","message":"Invalid number format","service":"calculate-service"}
+{"level":"info","message":"Operation multiply with parameters 5 and 3","service":"calculate-service"}
+{"level":"error","message":"Invalid number format","service":"calculate-service"}
+{"level":"info","message":"Operation add with parameters 5 and 3","service":"calculate-service"}
+{"level":"error","message":"Invalid number format","service":"calculate-service"}
+{"level":"info","message":"Operation sub with parameters 5 and 3","service":"calculate-service"}
+{"level":"error","message":"Invalid number format","service":"calculate-service"}
+{"level":"info","message":"Operation multiply with parameters 5 and 3","service":"calculate-service"}
+{"level":"error","message":"Invalid number format","service":"calculate-service"}
+{"level":"info","message":"Operation divide with parameters 5 and 3","service":"calculate-service"}
+{"level":"error","message":"Invalid number format","service":"calculate-service"}
+{"level":"info","message":"Server is listening on port 3040","service":"calculate-service"}
+{"level":"info","message":"Server is listening on port 3040","service":"calculate-service"}
+{"level":"info","message":"Server is listening on port 3040","service":"calculate-service"}
+{"level":"info","message":"Server is listening on port 3000","service":"calculate-service"}
+{"level":"info","message":"Server is listening on port 3000","service":"calculate-service"}
+{"level":"info","message":"Operation multiply with parameters 5 and 3","service":"calculate-service"}
+{"level":"error","message":"Invalid number format","service":"calculate-service"}
+{"level":"info","message":"Server is listening on port 3000","service":"calculate-service"}
+{"level":"info","message":"Operation multiply with parameters 5 and 3","service":"calculate-service"}
+{"level":"error","message":"Invalid number format","service":"calculate-service"}

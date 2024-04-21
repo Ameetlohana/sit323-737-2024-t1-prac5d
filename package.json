@@ -1,0 +1,25 @@
+{
+  "name": "sit323-737-2024-t1-prac4p",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ameetlohana/sit323-737-2024-t1-prac4p.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ameetlohana/sit323-737-2024-t1-prac4p/issues"
+  },
+  "homepage": "https://github.com/Ameetlohana/sit323-737-2024-t1-prac4p#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "node": "^18.20.1",
+    "winston": "^3.13.0"
+  }
+}
